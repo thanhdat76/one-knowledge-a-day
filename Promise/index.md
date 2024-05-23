@@ -1,0 +1,8 @@
+- Promise
+  - Là một đối tượng javascript đặc biệt,
+  - Mỗi khi gọi resolve or reject, trạng thái của promise sẽ là cuối cùng, những lời gọi resolve or reject khác sẽ bị bỏ qua(bao gồm cả code)
+  - Method: Promise All, Race
+  - Promise All: Sẽ trả về resolve khi tất cả các promise được resolve, và reject khi một trong những promise bị reject
+  - Promise Race sẽ trả về resolve/reject khi một trong những promise được settled(tức là trả về kết quả)
+    - https://javascript.info/promise-basics
+    - https://javascript.info/promise-api
