@@ -1,3 +1,6 @@
+- cheap: rẻ
+- warm: ấm
+
 # Cookie
 
 - là một dữ liệu nhỏ, khoảng 4kb, được đặt bởi phía sever, và mỗi yêu cầu rq đến server thì
