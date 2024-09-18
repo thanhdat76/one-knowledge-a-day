@@ -1,0 +1,2 @@
+- Được hỗ trợ từ phiên bản 18.
+- Giúp việc trì hoãn cập nhật giá trị.

@@ -18,12 +18,12 @@ const otherString = someString.toUpperCase(); // "HELLO WORLD"
 /* never*/
 // https://tek4.vn/khoa-hoc/lap-trinh-typescript-co-ban/kieu-nguyen-thuy-never
 interface Window {
-    title: string;
-  }
-  
-  interface Window {
-    ts: TypeScriptAPI;
-  }
-  
-  const src = 'const a = "Hello World"';
-  window.ts.transpileModule(src, {});
+  title: string;
+}
+
+interface Window {
+  ts: TypeScriptAPI;
+}
+
+const src = 'const a = "Hello World"';
+window.ts.transpileModule(src, {});
